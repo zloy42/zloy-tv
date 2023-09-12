@@ -190,4 +190,4 @@ RCTI+
 #EXTINF:-1 tvg-id="www.rctiplus.com" tvg-logo="https://static.rctiplus.id/media/400/files/fta_rcti/Channel_Logo/RCTI.png" group-title="SPORT",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/tv/rcti#RCTIPlus
-https://1d-rcti.rctiplus.id/rcti-sdi-avc1_210000=10-mp4a_96000=1.m3u8?auth_key=1694556536-18a7a57b70a04e1f8e1f66dd1b8e1c6a-0-445ac3fb35c70f1b28cab9c7923295f0
+https://1d-rcti.rctiplus.id/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8?auth_key=1694556536-18a7a57b70a04e1f8e1f66dd1b8e1c6a-0-a61f286c1ce570412822a3b7bd8f2298
