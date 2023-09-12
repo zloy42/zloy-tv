@@ -181,7 +181,7 @@ K+
 http://210.210.155.35/uq2663/h/h08/index.m3u8
 
 LiveStream
-#EXTINF:-1 tvg-id="www.youtube.com" tvg-logo="https://github.com/zloy42/zloy-tv/blob/main/istockphoto-1306922705-170667a.jpg?raw=true" group-title="LIVE!",Live Stream
+#EXTINF:-1 tvg-id="www.youtube.com" tvg-logo="https://github.com/zloy42/zloy-tv/blob/main/istockphoto-1306922705-170667a.jpg?raw=true" group-title="LIVE!",Live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.youtube.com/live/KGv6PEqAnAw?si=Z0HMHS4Srt_rfHgL#YoutubeStream
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694523436/ei/zAsAZYbEC8Td4-EPotum-Aw/ip/125.166.3.247/id/KGv6PEqAnAw.1/source/yt_live_broadcast/requiressl/yes/tx/24453783/txs/24453782%2C24453783/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fwXA4jhQUYheAdWaMNyR95sUb0kxgCmHI3d4EZibeE2m3N-sYRI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgDgff09AMye9-vOwmR4X7UNqzmH5TMvvHb9JjnFZnkakCIQD8QBeqqvbCh_XwL1JAuMBSUa37XklB789cY8Q1EYt13A%3D%3D/file/index.m3u8
