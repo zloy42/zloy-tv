@@ -1,8 +1,20 @@
-#EXTM3U url-tvg="https://epg.urfan.web.id" refresh="3600"
+#EXTM3U url-tvg="https://epg.urfan.web.id" refresh="2600"
+
+
+
+##########################
+########## LIVE ##########
+##########################
+
+
+#EXTINF:-1 group-title="LIVE" tvg-id="Windah Basudara" tvg-logo="",Windah Basudara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.onrender.com/channel/UCoIiiHof6BJ85PLuLkuxuhw.m3u8
 
 ##########################
 ######## LPP TVRI ########
 ##########################
+
 
 #EXTINF:-1 group-title="Nasional" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
