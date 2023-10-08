@@ -1603,7 +1603,7 @@ http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
 
 #EXTINF:-1 group-title="Radio" tvg-id="MfmMalang.id" tvg-logo="http://api.radiolight.info/files/radio/logo_middle/ac49d1db845f3c1bab6b30bcff847ecc4d25eec4.jpg,MFM Malang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://202.164.221.9:8222/
+http://202.164.221.9:8222/;
 
 #EXTINF:-1 group-title="Radio" tvg-id="RadioParlemen.id" tvg-logo="https://iptv.urfan.web.id/logo/radioparlemen.png",Radio Parlemen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
