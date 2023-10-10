@@ -6,6 +6,10 @@
 ########## LIVE ##########
 ##########################
 
+#EXTINF:-1 group-title="LIVE" tvg-id="museindonesia.id" tvg-logo="",MUSE Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://ythls.onrender.com/channel/UCxxnxya_32jcKj4yN1_kD7A.m3u8
+
 #EXTINF:-1 group-title="LIVE" tvg-id="Windah Basudara" tvg-logo="https://yt3.ggpht.com/ZqDuYMGIahUkyQ_NadOV_oy8OrxFpBI3YHpJOQYHoUmXeJT-66aPW-UB7H_q6fjcNhkBQqZc=s800-c-k-c0x00ffffff-no-rj",Windah Basudara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://ythls.onrender.com/channel/UCoIiiHof6BJ85PLuLkuxuhw.m3u8
