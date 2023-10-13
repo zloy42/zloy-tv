@@ -48,7 +48,7 @@ http://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="MNCTV.id" tvg-logo="https://iptv.urfan.web.id/logo/mnctv.png",MNCTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NGEwMjViMzEtMGQ2MS0zMTIyLTg0MTMtN2VhYzRlYzEyZGE5
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 http://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 group-title="Nasional" tvg-id="GTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gtv.png",GTV
